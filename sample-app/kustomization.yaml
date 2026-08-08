@@ -58,7 +58,7 @@ images:
   newTag: v1.0.0
 - name: sayedimran/simple-buy-frontend
   newName: sayedimran/simple-buy-frontend
-  newTag: v1.0.0
+  newTag: v1.0.1
 labels:
 - includeSelectors: true
   pairs:
