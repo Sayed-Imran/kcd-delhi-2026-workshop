@@ -4,6 +4,10 @@ kind: Kustomization
 namespace: simple-buy
 
 resources:
+  - ns.yaml
   - configmap.yaml
   - secrets.yaml
   - product-deployment.yaml
+  # - rabbit-mq-service.yaml
+  # - postgres-service.yaml
+  
